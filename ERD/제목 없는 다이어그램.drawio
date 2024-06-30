@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T12:26:34.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.6.4" etag="-L3Fiw87hvzOeKfLLctn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T12:53:31.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CZ2cX4tP7JRjsKOgKy3v" version="24.6.4" type="github">
   <diagram name="페이지-1" id="dSh9pYKv_Q1yFuXoLtGp">
-    <mxGraphModel>
+    <mxGraphModel dx="753" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WJOqefZVu4fYrQnyH5zh-1" value="order&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id&lt;/div&gt;&lt;div&gt;orderDate&lt;/div&gt;&lt;div&gt;user&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;payments&lt;/div&gt;&lt;div&gt;orderItems&lt;/div&gt;&lt;div&gt;totalAmount&lt;/div&gt;&lt;div&gt;addressInfo&lt;/div&gt;&lt;div&gt;fulfillments&amp;lt;&amp;gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="130" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
